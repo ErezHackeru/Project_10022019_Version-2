@@ -1,0 +1,6 @@
+D:\VisualStudio_Projects\CourseHackerU\HW1002_MyCanvas\HW1002_MyCanvas\bin\Debug\HW1002_MyCanvas.exe.config
+D:\VisualStudio_Projects\CourseHackerU\HW1002_MyCanvas\HW1002_MyCanvas\bin\Debug\HW1002_MyCanvas.exe
+D:\VisualStudio_Projects\CourseHackerU\HW1002_MyCanvas\HW1002_MyCanvas\bin\Debug\HW1002_MyCanvas.pdb
+D:\VisualStudio_Projects\CourseHackerU\HW1002_MyCanvas\HW1002_MyCanvas\obj\Debug\HW1002_MyCanvas.csproj.CoreCompileInputs.cache
+D:\VisualStudio_Projects\CourseHackerU\HW1002_MyCanvas\HW1002_MyCanvas\obj\Debug\HW1002_MyCanvas.exe
+D:\VisualStudio_Projects\CourseHackerU\HW1002_MyCanvas\HW1002_MyCanvas\obj\Debug\HW1002_MyCanvas.pdb

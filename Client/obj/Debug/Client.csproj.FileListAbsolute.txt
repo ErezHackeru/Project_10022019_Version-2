@@ -1,0 +1,11 @@
+D:\VisualStudio_Projects\CourseHackerU\HW1002_MyCanvas\Client\bin\Debug\Client.exe.config
+D:\VisualStudio_Projects\CourseHackerU\HW1002_MyCanvas\Client\bin\Debug\Client.exe
+D:\VisualStudio_Projects\CourseHackerU\HW1002_MyCanvas\Client\bin\Debug\Client.pdb
+D:\VisualStudio_Projects\CourseHackerU\HW1002_MyCanvas\Client\bin\Debug\HW1002_MyCanvas.exe
+D:\VisualStudio_Projects\CourseHackerU\HW1002_MyCanvas\Client\bin\Debug\HW1002_MyCanvas.pdb
+D:\VisualStudio_Projects\CourseHackerU\HW1002_MyCanvas\Client\bin\Debug\HW1002_MyCanvas.exe.config
+D:\VisualStudio_Projects\CourseHackerU\HW1002_MyCanvas\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\VisualStudio_Projects\CourseHackerU\HW1002_MyCanvas\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\VisualStudio_Projects\CourseHackerU\HW1002_MyCanvas\Client\obj\Debug\Client.csproj.CopyComplete
+D:\VisualStudio_Projects\CourseHackerU\HW1002_MyCanvas\Client\obj\Debug\Client.exe
+D:\VisualStudio_Projects\CourseHackerU\HW1002_MyCanvas\Client\obj\Debug\Client.pdb
